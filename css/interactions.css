@@ -55,7 +55,7 @@ img:hover{
 	transform: translateX(100%);
 }
 
-.photo:hover img{
+.photo:hover .scale{
 	transform:scale(1.1);
 }
 
