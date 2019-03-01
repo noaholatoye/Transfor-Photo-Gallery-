@@ -1,2 +1,2 @@
 # Transfor-Photo-Gallery-
-Interactive gallery with transition 
+Interactive photo gallery with CSS Transitions and Transforms
