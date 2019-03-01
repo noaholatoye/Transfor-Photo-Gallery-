@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+/* style box */
+.container{
+    width: 90%;
+    margin: auto;
+
+}
+.box{
+    padding: 50px 10px;
+    background-color: brown;
+}
+
+/* Skew box*/
+.skew-right{
+    transform: skewX(-15deg);
+}
+.skew-left{
+    transform: skewX(15deg);
+}
+.top-margin{
+    margin-top: 55px;
+}
+
+/* Scale */
+.scale:hover{
+    transform: scale(1.1);
+}
